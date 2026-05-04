@@ -10,3 +10,4 @@ data class PengajuanResponse(
     val status: String,
     val keputusan: String
 )
+//
