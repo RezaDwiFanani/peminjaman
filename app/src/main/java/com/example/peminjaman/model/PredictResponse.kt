@@ -5,3 +5,4 @@ data class PredictResponse(
     val skor: Double,
     val alasan: List<String>
 )
+
